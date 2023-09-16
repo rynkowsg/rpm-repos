@@ -1,0 +1,4 @@
+[charlesproxy]
+name=Charles Proxy Repository
+baseurl=https://www.charlesproxy.com/packages/yum
+gpgkey=https://www.charlesproxy.com/packages/yum/PublicKey
